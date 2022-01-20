@@ -1,7 +1,7 @@
 # Shopify2022WinterDScoop_ShawnLu
-
-### Name:Shawn Lu
 ### This repo contains all my files for Data Science Intern - Summer 2022 (Remote, US&Canada) job application.
+### Name:Shawn Lu
+
 
 #### question1.csv is the dataset for question 1 downloaded as an csv
 
