@@ -1,6 +1,6 @@
 # Shopify2022WinterDScoop_ShawnLu
 ### This repo contains all my files for Data Science Intern - Summer 2022 (Remote, US&Canada) job application.
-### Applicant Name: Shawn Lu
+### Applicant Name: Xiaoan Lu
 
 <br>
 
